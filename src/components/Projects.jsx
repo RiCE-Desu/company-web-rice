@@ -1,4 +1,4 @@
-const ProjectsSection = () => {
+export const ProjectsSection = () => {
   return (
     <div className="py-12 bg-white">
       {/* Projects Section */}
@@ -76,4 +76,3 @@ const ProjectsSection = () => {
   );
 };
 
-export default ProjectsSection;
