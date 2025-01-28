@@ -3,7 +3,7 @@ import Hero from './components/Hero';
 import Services from './components/Services';
 import About from './components/About';
 import Footer from './components/Footer';
-import { ProjectsSection } from './components/projects';
+import Projects from './components/projects';
 
 const App = () => {
   return (
@@ -12,7 +12,7 @@ const App = () => {
       <Hero />
       <Services />
       <About />
-      <ProjectsSection />
+      <Projects />
       <Footer />
     </div>
   );
