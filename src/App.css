@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: url('/path-to-your-image.jpg') no-repeat center center;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-text {
+  color: white;
+}
+
+.services {
+  text-align: center;
+}
