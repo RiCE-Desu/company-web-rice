@@ -22,7 +22,7 @@ const Projects = () => {
               className="overflow-hidden rounded-lg shadow-lg bg-gray-50"
             >
               <img
-                src={`./public/project1.jpeg`}
+                src={`/project1.jpeg`}
                 alt={`Project ${index + 1}`}
                 className="w-full h-48 object-cover"
               />
