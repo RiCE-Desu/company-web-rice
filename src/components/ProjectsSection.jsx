@@ -43,7 +43,7 @@ const Projects = () => {
           {/* Testimonial 1 */}
           <div className="flex items-center space-x-4">
             <img
-              src="/public/billgates.jpeg"
+              src="/billgates.jpeg"
               alt="James Passaquindici Arcand"
               className="rounded-full w-20 h-20 object-cover"
             />
@@ -58,7 +58,7 @@ const Projects = () => {
           {/* Testimonial 2 */}
           <div className="flex items-center space-x-4">
             <img
-              src="/public/elonmusk.jpeg"
+              src="/elonmusk.jpeg"
               alt="Abram Schleifer"
               className="rounded-full w-20 h-20 object-cover"
             />
